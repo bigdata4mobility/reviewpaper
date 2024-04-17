@@ -1,0 +1,1 @@
+You should put the sampled data from 11 MSAs here. They end with .zip.
